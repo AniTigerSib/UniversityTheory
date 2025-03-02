@@ -32,3 +32,20 @@ Sam had been exercising in that gym, when Ken arrived.
 > The weather in Surgut has been quite variable lately. The temperature then drops to almost zero, then rises to +17 degrees Celsius. It also rains periodically in the evening or already at night.
 
 
+### Conditionals
+#### Zero type
+When water reaches 100 C, it boils.
+When accumulator gets overheat, it gets damaged.
+#### First type
+If I get a promotion, I'll earn more.
+If I win lottery, I'll be a millionaire.
+If Peter learn math better, he'll be a mathematic.
+
+#### Second type
+Это возможно
+If I were a teacher, I would expel you.
+If I were you, I would never go to university.
+
+#### Third type
+Возможность упущена и не вернется
+If I had been smarter, I would have bought bitcoin in 2007.
