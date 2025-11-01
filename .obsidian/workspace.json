@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2476c4282e214b",
+        "id": "9fc002f6d7c7a235",
         "type": "tabs",
         "children": [
           {
-            "id": "a1f8e3b8a0035894",
+            "id": "5d7062129738a401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Организация МПС/Организация МПС. Программируемые логические контроллеры..md",
+                "file": "Имитационное моделирование/Имитационное моделирование.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Организация МПС. Программируемые логические контроллеры."
-            },
-            "group": "44cdce2f1305ce03"
-          },
-          {
-            "id": "ca19e4d51c6b8c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Организация МПС/Практика.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Практика"
+              "title": "Имитационное моделирование"
             }
-          },
-          {
-            "id": "81ee9651599a78fa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Организация МПС/8080 Programmers Manual.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "8080 Programmers Manual"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "826f2d271ea372a6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ca6d55527517cb69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Организация МПС/Организация МПС. Программируемые логические контроллеры..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Организация МПС. Программируемые логические контроллеры."
-            },
-            "group": "44cdce2f1305ce03"
           }
         ]
       }
@@ -127,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 249.5
   },
   "right": {
     "id": "5cf46bfc0d74ef2a",
     "type": "split",
     "children": [
       {
-        "id": "1525bba5ebc51a49",
+        "id": "c8b90d51755b2a52",
         "type": "tabs",
         "children": [
           {
-            "id": "db91d256ba642b2b",
+            "id": "c2c1794a12033d4f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Организация МПС/Организация МПС.md",
+                "file": "Организация МПС/Практика.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Организация МПС"
+              "title": "Backlinks for Практика"
             }
           },
           {
-            "id": "f6bfb58224770f10",
+            "id": "8aaadb82337b6e2e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Организация МПС/Организация МПС.md",
+                "file": "Имитационное моделирование/Имитационное моделирование.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Организация МПС"
+              "title": "Outgoing links from Имитационное моделирование"
             }
           },
           {
-            "id": "c642f4e09afb0946",
+            "id": "44e9c1ffe1ba9700",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -186,22 +137,22 @@
             }
           },
           {
-            "id": "d91532438ed895d2",
+            "id": "323f8ab6c3e02a9a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Организация МПС/Практика.md",
+                "file": "Имитационное моделирование/Имитационное моделирование.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Практика"
+              "title": "Outline of Имитационное моделирование"
             }
           },
           {
-            "id": "e16fe001dec34cba",
+            "id": "d88e54d51851d8e0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -219,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -228,36 +180,53 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e16fe001dec34cba",
+  "active": "5d7062129738a401",
   "lastOpenFiles": [
+    "Мехатронные системы/Лабораторная работа 4.md",
+    "Организация МПС/Организация МПС.md",
+    "Имитационное моделирование/Имитационное моделирование.md",
+    "Untitled.md",
+    "Анализ данных и МЛ/img/Pasted image 20251013101233.png",
+    "Имитационное моделирование/img/Pasted image 20251020103431.png",
+    "2025-10-15.md",
+    "Анализ данных и МЛ/img/Pasted image 20251015101436.png",
+    "Анализ данных и МЛ/Анализ данный и машинное обучение.md",
+    "Анализ данных и МЛ/img/Pasted image 20251013105239.png",
+    "Анализ данных и МЛ/img/Pasted image 20251013105209.png",
+    "Анализ данных и МЛ/img/Pasted image 20251013104919.png",
+    "Анализ данных и МЛ/img/Pasted image 20251013104545.png",
+    "Анализ данных и МЛ/img/Pasted image 20251013104217.png",
+    "Анализ данных и МЛ/img/Pasted image 20251013104025.png",
+    "Анализ данных и МЛ/img/Pasted image 20251013103858.png",
+    "Мехатронные системы",
+    "Имитационное моделирование/img",
+    "Анализ данных и МЛ/img",
+    "Анализ данных и МЛ",
+    "Организация МПС/Программируемые логические контроллеры Siemens.md",
+    "Организация МПС/Классификация МПС.md",
     "Организация МПС/8080 Programmers Manual.pdf",
-    "Организация МПС/Организация МПС. Программируемые логические контроллеры..md",
-    "Организация МПС/Практика.md",
-    "Основы имиджевой коммуникации/Личностные характеристики.md",
-    "Sber Стажи/Информация.md",
+    "Имитационное моделирование",
+    "Основы имиджевой коммуникации/Работа на паре 14.03.md",
+    "Основы имиджевой коммуникации/Переговорный процесс.md",
     "Основы имиджевой коммуникации/Основы имиджевой коммуникации.md",
-    "Sber Стажи",
-    "Организация МПС/img/Pasted image 20250226141123.png",
-    "Организация МПС/img/Pasted image 20250226140935.png",
-    "Организация МПС/img/Pasted image 20250226140424.png",
-    "Организация МПС/img/Pasted image 20250226140245.png",
-    "Организация МПС/img/Pasted image 20250226135759.png",
-    "Организация МПС/img/Pasted image 20250226135516.png",
-    "Организация МПС/img/Pasted image 20250226135108.png",
-    "Организация МПС/img/Pasted image 20250226133858.png",
-    "Теория вычислительных процессов/img/Pasted image 20250219150852.png",
-    "Теория вычислительных процессов/img/Pasted image 20250219152902.png",
-    "Engl/English practice.md",
-    "Основы предпринимательской деятельности/Основы предпринимательской деятельности.md",
-    "Основы предпринимательской деятельности",
-    "ОТАУ/Основы теории автоматического управления.md",
-    "Основы имиджевой коммуникации",
+    "Основы имиджевой коммуникации/Личностные характеристики.md",
+    "Основы имиджевой коммуникации/Самопрезентация.md",
+    "Отладка/Отладка.md",
+    "Отладка",
+    "Организация МПС/Практика.md",
     "Теория вычислительных процессов/Теория вычислительных процессов.md",
+    "Engl/English practice.md",
+    "Engl/Users and possible use of computers.md",
+    "Основы имиджевой коммуникации/Untitled",
+    "Основы имиджевой коммуникации/Доклады/Эмоциональная компетентность.md",
+    "2.md",
+    "Основы имиджевой коммуникации/Доклады",
+    "Основы предпринимательской деятельности/Упрощение примитивных вычислений в генетике.md",
+    "Sber Стажи/Информация.md",
+    "Sber Стажи",
+    "Основы предпринимательской деятельности/Основы предпринимательской деятельности.md",
+    "ОТАУ/Основы теории автоматического управления.md",
     "ТЯПиМТ/LabGraphs/Lab_1.md",
-    "ТЯПиМТ/LabGraphs/Lab_2.md",
-    "ТЯПиМТ/Теория языков программирования и методы трансляции.md",
-    "ТРПО/Технологии разработки программного обеспечения.md",
-    "Основы экономической культуры/HW/Учебный кейс.md",
-    "Организация МПС/Классификация МПС.md"
+    "ТЯПиМТ/LabGraphs/Lab_2.md"
   ]
 }

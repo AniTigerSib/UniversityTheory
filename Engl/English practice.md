@@ -49,3 +49,34 @@ If I were you, I would never go to university.
 #### Third type
 Возможность упущена и не вернется
 If I had been smarter, I would have bought bitcoin in 2007.
+
+
+## Technical support
+David Lesta
+Jenipher
+Under warranty
+LS5-50
+AM96470
+University of Edenborough
+Not playing midi sound files from the internet
+MS Windows 2000
+Pentium 3
+1028 mb
+LAN
+Windows NT
+Driver fault
+Reinstall sound drivers
+Job Number - E83095
+
+Qstns:
+How can I help you?
+What model of Computer?
+Is under warranty?
+Service type number?
+Is that Univercity?
+Can you describe the problem?
+What operating system?
+What type of processor?
+How much RAM is instld?
+What type of network?
+Do you still have driver disk?
