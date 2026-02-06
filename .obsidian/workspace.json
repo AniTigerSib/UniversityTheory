@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +181,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "371dd97a73a95411",
+  "active": "a63a656d09f67603",
   "lastOpenFiles": [
-    "Мат методы ИИ/img/Pasted image 20260205092950.png",
+    "Мат методы ИИ/img/Pasted image 20260206120303.png",
+    "Мат методы ИИ/img/Pasted image 20260206115815.png",
+    "Мат методы ИИ/img/Pasted image 20260206115345.png",
+    "Анализ данных и МЛ/img/Pasted image 20251110103056.png",
+    "Анализ данных и МЛ/img/Pasted image 20251110103002.png",
     "Мат методы ИИ/Теория.md",
+    "Мат методы ИИ/img/Pasted image 20260205092950.png",
     "Мат методы ИИ/Практики.md",
     "Мат методы ИИ/img/Pasted image 20260205091638.png",
     "Мат методы ИИ/img",
@@ -193,13 +199,9 @@
     "Мехатронные системы/Rotary indexing table.md",
     "Имитационное моделирование/Имитационное моделирование.md",
     "Организация МПС/Организация МПС.md",
-    "Pasted image 20251110103056.png",
-    "Pasted image 20251110103002.png",
     "Анализ данных и МЛ/img/Pasted image 20251110102141.png",
     "Анализ данных и МЛ/img/Pasted image 20251110102836.png",
     "Анализ данных и МЛ/img/Pasted image 20251110102251.png",
-    "Анализ данных и МЛ/img/Pasted image 20251110102239.png",
-    "Анализ данных и МЛ/img/Pasted image 20251110102232.png",
     "Мехатронные системы/Лабораторная работа 4.md",
     "Untitled.md",
     "2025-10-15.md",
