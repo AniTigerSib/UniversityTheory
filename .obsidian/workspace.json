@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Теория"
             }
+          },
+          {
+            "id": "1620063a0c7add59",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "371dd97a73a95411",
+  "active": "1620063a0c7add59",
   "lastOpenFiles": [
+    "Мат методы ИИ/img/Pasted image 20260206143011.png",
+    "Мат методы ИИ/img/Pasted image 20260206142639.png",
     "Мат методы ИИ/img/Pasted image 20260206141618.png",
     "Мат методы ИИ/Теория.md",
     "Мат методы ИИ/img/Pasted image 20260206134834.png",
@@ -193,7 +208,6 @@
     "Мат методы ИИ/img/Pasted image 20260206115815.png",
     "Мат методы ИИ/img/Pasted image 20260206115345.png",
     "Анализ данных и МЛ/img/Pasted image 20251110103056.png",
-    "Анализ данных и МЛ/img/Pasted image 20251110103002.png",
     "Мат методы ИИ/Практики.md",
     "Мат методы ИИ/img",
     "Анализ данных и МЛ/Анализ данный и машинное обучение.md",
