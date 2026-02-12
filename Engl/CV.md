@@ -15,4 +15,6 @@ Engagement - вовлеченность / помолвка.
 Эссе по теме "Что я буду делать после выпуска"
 
 #### Essay
-After I graduate I plan to start working as trainee in Yandex, or may be other Russian big-tech company to gain a lot of experience. After 2-3 years of working in big-tech company I plan to start my own IT business or may be join any interesting tech startup,
+After I graduate I plan to start working as trainee in Yandex, or may be other Russian big-tech company to gain a lot of experience. After 2-3 years of working in big-tech company and gaining knowledge about the inner workings of large projects, I plan to start my own IT business or may be join any interesting tech startup. I also have several long-term goals in life, such as developing my own game.
+
+#### CV
