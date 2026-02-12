@@ -13,3 +13,6 @@ Engagement - вовлеченность / помолвка.
 Сходить в библиотеку и взять методичку (фото в телеге).
 Черновой вариант резюме
 Эссе по теме "Что я буду делать после выпуска"
+
+#### Essay
+After I graduate I plan to start working as trainee in Yandex, or may be other Russian big-tech company to gain a lot of experience. 
