@@ -16,3 +16,9 @@ Subject: Software Engineer position
 
 Mr. Elon Musk,
 
+*Абзац-причина (друг порекомендовал, позици яосвободилась и т.д.*
+I am writing to respond to job posting (объявление об открытой рабочей позиции) on the web site (LinkedIn, hh). I believe that my skills are suitable for ... . I think I'm a good fir for this position (расширить).
+
+*Почему вы хотите попасть на эту позицию*
+*Условно:* с таким-то опытом и таким-то знанием желаю присоединиться к интересному проекту. Написать о каких-то пет-проектов и т.д. Любите это, хотите этим заниматься и принести компании пользу.
+
