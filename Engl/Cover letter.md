@@ -12,7 +12,7 @@ SpaceX
 Brownsville, TX
 USA, XXXXX-XXXX
 
-Subject: Software Engineer position
+Subject: Backend Software Engineer (trainee), GNC (Starlink) position
 
 Mr. Elon Musk,
 
