@@ -1,0 +1,2 @@
+Okay, now, after four years of university I finally get there. I'm an educated specialist of the software development. I'm looking forward to the tasks and cases I will face in my professional career. Now I need to think of the goals, that will be set next.
+Just kidding, for me it's just the same day as another =)
