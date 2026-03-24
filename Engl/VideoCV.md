@@ -1,1 +1,1 @@
-Hello, I am Mikhail Khudoleev and I'm graduating from 
+Hello, my name is Mikhail Khudoleev and I'm graduating from Surgut State University, where I studied Software Engineering. I have 
