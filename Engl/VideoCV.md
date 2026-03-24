@@ -1,1 +1,1 @@
-Hello, My name is Mikhail
+Hello, I am Mikhail Khudoleev and I'm graduating 
