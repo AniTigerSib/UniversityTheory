@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Engl/VideoCV.md",
+                "file": "Параллельное программирование/Очтеты/Lab4/Лабораторная работа 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VideoCV"
+              "title": "Лабораторная работа 4"
+            }
+          },
+          {
+            "id": "3083b75cee9949bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67bcb6ec3ba9aa4f",
+  "active": "3083b75cee9949bf",
   "lastOpenFiles": [
-    "Параллельное программирование/Очтеты/Lab4/Лабораторная работа 4.md",
     "Engl/VideoCV.md",
+    "Параллельное программирование/Очтеты/Lab4/Лабораторная работа 4.md",
     "Параллельное программирование/Очтеты/Lab4/img",
     "Мат методы ИИ/Отчеты/2/Лабораторная работа 2. Вариант 8..md",
     "Параллельное программирование/Очтеты/Lab4",
